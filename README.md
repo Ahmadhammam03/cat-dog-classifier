@@ -156,8 +156,6 @@ The model uses several augmentation techniques to improve generalization:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
-
-**Your Name**
 - GitHub: [Ahmadhammam03](https://github.com/Ahmadhammam03)
 - LinkedIn: [Ahmad Hammam](www.linkedin.com/in/ahmad-hammam-1561212b2)
 
