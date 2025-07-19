@@ -50,7 +50,7 @@ pip install tensorflow numpy keras pillow
 
 ### Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/cat-dog-classifier.git
+git clone https://github.com/Ahmadhammam03/cat-dog-classifier.git
 cd cat-dog-classifier
 ```
 
