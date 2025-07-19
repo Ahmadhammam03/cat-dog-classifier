@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 - GitHub: [Ahmadhammam03](https://github.com/Ahmadhammam03)
-- LinkedIn: [Ahmad Hammam](www.linkedin.com/in/ahmad-hammam-1561212b2)
+- LinkedIn: [Ahmad Hammam](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
 
 ## 🙏 Acknowledgments
 
